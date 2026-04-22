@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../test"
+		},
+		{
+			"name": "ESP32_Live_Temperature_WiFi",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
